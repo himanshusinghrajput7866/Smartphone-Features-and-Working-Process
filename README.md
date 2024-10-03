@@ -11,7 +11,7 @@
 6. [Android vs IOS: Kya Difference Hai?](#android-vs-ios-kya-difference-hai)
 7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Phone Itne Mehenga Kyu Hota Hai?](#phone-itne-mehenga-kyu-hota-hai?)
-9. [Clause](#clause)
+9. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 10. [Conclusion](#conclusion)
 11. [Reference link](#reference-link)
 
