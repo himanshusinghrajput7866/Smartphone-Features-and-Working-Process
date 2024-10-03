@@ -11,10 +11,9 @@
 6. [Android vs IOS: Kya Difference Hai?](#android-vs-ios-kya-difference-hai)
 7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Phone Itne Mehenga Kyu Hota Hai?](#phone-itne-mehenga-kyu-hota-hai?)
-9. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
-10. [Antutu Score](#Antutu-Score)
-11. [Antutu Score kaise check karein?](#Antutu-Score-kaise-check-karein?)
-
+9. [Antutu Score](#Antutu-Score)
+10. [Antutu Score kaise check karein?](#Antutu-Score-kaise-check-karein?)
+11. [Conclusion](#Conclusion)
 
 ## Introduction
 Is document me hum ek smartphone ke sabhi important features aur wo kaise kam karte hai yeh samjhaenge. Hum isme processor, battery, display, motherboard, charging, 5G, Android aur iOS ke differences ko detail me cover karenge. Or last me ham Antutu Score ke bare me bhi janenge.
