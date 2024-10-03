@@ -10,9 +10,10 @@
 6. [Android vs IOS: Kya Difference Hai?](#android-vs-ios-kya-difference-hai)
 7. [Camera me Megapixel ka Matlab](#camera-me-megapixel-ka-matlab)
 8. [Phone Itne Mehenge Kyu Hota Hai?](#phone-itne-mehenge-kyu-hota-hai)
-9. [Antutu Score](#Antutu-Score)
+9. [Antutu Score](#antutu-score)
 10. [Antutu Score kaise check karein?](#antutu-score-kaise-check-karein)
 11. [Conclusion](#conclusion)
+
 
 
 ## Introduction
