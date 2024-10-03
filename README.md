@@ -133,19 +133,22 @@ Sabse mehenga phone expensive components, advanced technology, aur premium build
   better quality me capture kiya ja sake.
 # Antutu Score kya hota hai?
 
-**Antutu Score** ek number hota hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke CPU, GPU, memory, aur user experience ko check karke milta hai.
+**Antutu Score** Ye ek score hai jo numbers ke form me dikhta hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke CPU, GPU, memory, aur user experience ko check karke milta hai.
 
 ## **Antutu Score ka use kyun hota hai?**
-- Phone ki speed aur power ko **compare** karne ke liye.
-- Pata karne ke liye ki phone me **kya achha hai aur kya slow hai**.
+- Phone ki speed aur performance ko **compare** karne ke liye.
+- Pata karne ke liye ki phone me **kya fast hai aur kya slow hai**.
 - Jitna bada score, utna **fast aur powerful** phone.
 
 ## **Antutu kaise test karta hai?**
+- Ye applications bohot sare features or software le ke chalta hai jaise ki 3D graphics 4K @60fps videos etc.
 1. **CPU Test**: 
-   - Ye check karta hai ki phone ka **processor kitni jaldi kaam karta hai**.
+   - Ye check karta hai ki phone ka **processor kitni jaldi kaam karta hai** jaise ki Mathematical calculations karna Data Compress karna. (Single-Core Test):- CPU ke har ek core ko intense task diya jata hai, jisse yeh pata chale ki ek core ka 
+     individual performance kaisa hai. (Multi-Core) Test: Saare cores ko milakar tasks diye jate hain aur dekha jata hai ki CPU ke multiple cores ek sath kaise kaam karte hain.
    
 2. **GPU Test**: 
-   - Is test se pata chalta hai ki phone me **games aur graphics kaise chalenge**.
+   - Is test se pata chalta hai ki phone me **games aur graphics kaise chalenge**.jaise ki Check karne ke liye 4k videos high frames pe chala dega jyada time tak stress test bhi karta hai ki kitna der tak kitna load sah paya or kitne time bad 
+     perforamance down hua CPU ka.
    
 3. **Memory Test**: 
    - Ye test karta hai ki phone me **data kitni jaldi save aur load hota hai**.
@@ -154,13 +157,14 @@ Sabse mehenga phone expensive components, advanced technology, aur premium build
    - Ye check karta hai ki phone **use karne me smooth aur fast** hai ya nahi.
 
 ## **Antutu Score ka matlab kya hota hai?**
-- Antutu score ek benchmark(Moolyaankan (मूल्यांकन):Kisi cheez ki performance ya efficiency ko naapne ka ek tareeka.) hota hai jo mobile devices (jaise smartphones aur tablets) ki performance ko measure karta hai. Antutu Benchmark ek popular tool hai jo phone ke processor (CPU), graphics processor (GPU), memory (RAM), user experience (UX), aur storage (I/O performance) ka test karta hai aur unke basis par ek overall score deta hai.
-- **High Score**: Phone **fast aur powerful** hota hai.
+- Antutu score ek benchmark(Moolyaankan (मूल्यांकन):Kisi cheez ki performance ya efficiency ko naapne ka ek tareeka) hota hai jo mobile devices (jaise smartphones aur tablets) ki performance ko measure karta hai. Antutu Benchmark ek popular tool hai 
+  jo phone ke processor (CPU), graphics processor (GPU), memory (RAM), user experience (UX), aur storage (I/O performance) ka test karta hai aur unke basis par ek overall score deta hai.
+- **High Score**: Phone **fast aur powerful** hota hai jab phone ka overall score high ho to. Ye generally Gaming phones ka nikalta hai high score.
 - **Medium Score**: Phone **normal speed** ka hota hai, daily use ke liye theek.
 - **Low Score**: Phone **slow** hota hai, heavy apps aur games ke liye accha nahi hota.
 
 ## **Example Scores**
-- **Flagship phones (jo sabse top hote hain)**: 1,000,000+ score.
+- **Flagship phones (jo sabse top hote hain)**: 1,000,000+ ya 2,000,000+ ka score ho jiska.
 - **Mid-range phones (normal phones)**: 400,000 - 700,000.
 - **Entry-level phones (basic phones)**: 100,000 - 300,000.
 
