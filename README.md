@@ -8,7 +8,7 @@
 3. [Battery kaise Kaam Karti Hai?](#Battery-kaise-Kaam-Karti-Hai?)
 4. [Battery Types](#Battery-Types)
 5. [Display ka Kaam Kya Hai?](#Display-ka-Kaam-Kya-Hai?)
-6. [Android vs IOS: Kya Difference Hai?](#WAndroid-vs-IOS-Kya-Difference-Hai?)
+6. [Android vs IOS: Kya Difference Hai?](#Android-vs-IOS-Kya-Difference-Hai?)
 7. [Datatypes](#Datatypes)
 8. [Operators](#operators)
 9. [Clause](#clause)
