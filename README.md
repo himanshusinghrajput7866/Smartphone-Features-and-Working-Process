@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> Table of contents </h1>
 
 
-1. [Processor (CPU) ka Matlab Kya Hai?](#processor-(CPU)-ka-Matlab-Kya-Hai?)
+1. [Processor (CPU) ka Matlab Kya Hai?](#processor-cpu-ka-matlab-kya-hai)
 2. [Types of Processors](#Types-of-Processors)
 3. [Battery kaise Kaam Karti Hai?](#Battery-kaise-Kaam-Karti-Hai?)
 4. [Battery Types](#Battery-Types)
