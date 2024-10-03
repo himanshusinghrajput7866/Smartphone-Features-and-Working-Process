@@ -12,7 +12,7 @@
 7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Phone Itne Mehenge Kyu Hota Hai?](#phone-itne-mehenge-kyu-hota-hai?)
 9. [Antutu Score](#Antutu-Score)
-10. [Antutu Score kaise check karein?](#Antutu-Score-kaise-check-karein?)
+10. [Antutu Score kaise check karein?](#antutu-score-kaise-check-karein?)
 11. [Conclusion](#Conclusion)
 
 ## Introduction
@@ -118,7 +118,7 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 
 ---
 
-# **Phone Itne Mehenge Kyu Hota Hai?**
+## **Phone Itne Mehenge Kyu Hota Hai?**
 
 Sabse mehenga phone expensive components, advanced technology, aur premium build quality ke kaaran hota hai.
 
