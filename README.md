@@ -154,6 +154,7 @@ Sabse mehenga phone expensive components, advanced technology, aur premium build
    - Ye check karta hai ki phone **use karne me smooth aur fast** hai ya nahi.
 
 ## **Antutu Score ka matlab kya hota hai?**
+- Antutu score ek benchmark(Moolyaankan (मूल्यांकन):Kisi cheez ki performance ya efficiency ko naapne ka ek tareeka.) hota hai jo mobile devices (jaise smartphones aur tablets) ki performance ko measure karta hai. Antutu Benchmark ek popular tool hai jo phone ke processor (CPU), graphics processor (GPU), memory (RAM), user experience (UX), aur storage (I/O performance) ka test karta hai aur unke basis par ek overall score deta hai.
 - **High Score**: Phone **fast aur powerful** hota hai.
 - **Medium Score**: Phone **normal speed** ka hota hai, daily use ke liye theek.
 - **Low Score**: Phone **slow** hota hai, heavy apps aur games ke liye accha nahi hota.
