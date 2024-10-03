@@ -13,7 +13,7 @@
 8. [Phone Itne Mehenga Kyu Hota Hai?](#phone-itne-mehenga-kyu-hota-hai?)
 9. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 10. [Antutu Score](#Antutu-Score)
-11. [Reference link](#reference-link)
+11. [Antutu Score kaise check karein?](#Antutu-Score-kaise-check-karein?)
 
 
 ## Introduction
