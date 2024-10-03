@@ -118,7 +118,7 @@ Camera ke megapixel ka matlab hota hai ki aapke photos me kitne detail capture h
 
 ---
 
-## Phone Itne Mehenga Kyu Hota Hai?
+## **Phone Itne Mehenga Kyu Hota Hai?**
 
 Sabse mehenga phone expensive components, advanced technology, aur premium build quality ke kaaran hota hai.
 
