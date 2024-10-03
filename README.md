@@ -4,17 +4,17 @@
 
 
 1. [Processor (CPU) ka Matlab Kya Hai?](#processor-cpu-ka-matlab-kya-hai)
-2. [Types of Processors](#Types-of-Processors)
-3. [Battery kaise Kaam Karti Hai?](#Battery-kaise-Kaam-Karti-Hai?)
-4. [Battery Types](#Battery-Types)
-5. [Display ka Kaam Kya Hai?](#Display-ka-Kaam-Kya-Hai?)
+2. [Types of Processors](#types-of-processors)
+3. [Battery kaise Kaam Karti Hai?](#battery-kaise-kaam-karti-hai)
+4. [Battery Types](#battery-types)
+5. [Display ka Kaam Kya Hai?](#display-ka-kaam-kya-hai)
 6. [Android vs IOS: Kya Difference Hai?](#android-vs-ios-kya-difference-hai)
-7. [Datatypes](#Datatypes)
+7. [Datatypes](#datatypes)
 8. [Operators](#operators)
 9. [Clause](#clause)
-<!-- 10. [JOINS](#JOINS) -->
-10. [Conclusion](#Conclusion)
-11. [Reference link](#Reference-link)
+10. [Conclusion](#conclusion)
+11. [Reference link](#reference-link)
+
 
 ## Introduction
 Is document me hum ek smartphone ke sabhi important features aur wo kaise kam karte hai yeh samjhaenge. Hum isme processor, battery, display, motherboard, charging, 5G, Android aur iOS ke differences ko detail me cover karenge. Or last me ham Antutu Score ke bare me bhi janenge.
