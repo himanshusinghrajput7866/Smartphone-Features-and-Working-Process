@@ -12,7 +12,7 @@
 7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Phone Itne Mehenga Kyu Hota Hai?](#phone-itne-mehenga-kyu-hota-hai?)
 9. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
-10. [Conclusion](#conclusion)
+10. [Antutu Score](#Antutu-Score)
 11. [Reference link](#reference-link)
 
 
