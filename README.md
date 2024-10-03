@@ -9,7 +9,7 @@
 4. [Battery Types](#battery-types)
 5. [Display ka Kaam Kya Hai?](#display-ka-kaam-kya-hai)
 6. [Android vs IOS: Kya Difference Hai?](#android-vs-ios-kya-difference-hai)
-7. [Datatypes](#datatypes)
+7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Operators](#operators)
 9. [Clause](#clause)
 10. [Conclusion](#conclusion)
