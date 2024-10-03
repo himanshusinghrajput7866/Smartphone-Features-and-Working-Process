@@ -133,7 +133,9 @@ Sabse mehenga phone expensive components, advanced technology, aur premium build
   better quality me capture kiya ja sake.
 # Antutu Score kya hota hai?
 
-## **Antutu Score** Ye ek score hai jo numbers ke form me dikhta hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke CPU, GPU, memory, aur user experience ko check karke milta hai.
+## **Antutu Score**
+- Ye ek score hai jo numbers ke form me dikhta hai jo hume batata hai ki mobile phone ki **performance** kitni achhi ya slow hai. Ye score mobile phone ke CPU, GPU, memory, aur user experience ko check 
+  karke milta hai.
 
 ## **Antutu Score ka use kyun hota hai?**
 - Phone ki speed aur performance ko **compare** karne ke liye.
