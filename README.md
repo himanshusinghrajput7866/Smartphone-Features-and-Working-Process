@@ -12,7 +12,7 @@
 7. [Camera me Megapixel ka Matlab](#Camera-me-Megapixel-ka-Matlab)
 8. [Phone Itne Mehenge Kyu Hota Hai?](#Phone-itne-mehenge-kyu-hota-hai?)
 9. [Antutu Score](#Antutu-Score)
-10. [Antutu Score kaise check karein?](#antutu-score-kaise-check-karein?)
+10. [Antutu Score kaise check karein?](#antutu-score)
 11. [Conclusion](#Conclusion)
 
 ## Introduction
